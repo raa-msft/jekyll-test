@@ -1,6 +1,6 @@
 # Power Platform and Dynamics 365 Service Offerings
 
-Below is a list of services our Customer Engineer team offers for our Premier/Unified Support customers.  For more information please contact your Customer Success Account Manager (CSAM/TAM), Customer Engineer, or Microsoft representative.  Looking for services for Dynamics 365 Finance and Operations (AX)?  Go here.  
+Below is a list of services our Customer Engineer team offers for our Premier/Unified Support customers.  For more information please contact your Customer Success Account Manager (CSAM/TAM), Customer Engineer, or Microsoft representative.
 
 NOTE: In addition to the service offerings below, custom and tailored deliveries are also available from our team.  If you don't see a specific topic you are looking for, please reach out to your Account Manager or Microsoft representative.  We work with our customers every day on a wide variety of topics related to Power Platform and Dynamics 365.
 
